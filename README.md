@@ -291,15 +291,15 @@ All figures are located in `results/figures/` (300 DPI PNG, publication-ready):
 
 | Color Palettes | RGB Comparison |
 |:-:|:-:|
-| ![Color Palettes](https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/color_palettes.png) | ![RGB Comparison](https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/rgb_comparison.png) |
+| ![Color Palettes](https://raw.githubusercontent.com/ronithrashmikara/Jasper/master/results/figures/color_palettes.png) | ![RGB Comparison](https://raw.githubusercontent.com/ronithrashmikara/Jasper/master/results/figures/rgb_comparison.png) |
 
 | Key Distributions | Effect Sizes |
 |:-:|:-:|
-| ![Key Distributions](https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/key_distributions.png) | ![Effect Sizes](https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/effect_sizes.png) |
+| ![Key Distributions](https://raw.githubusercontent.com/ronithrashmikara/Jasper/master/results/figures/key_distributions.png) | ![Effect Sizes](https://raw.githubusercontent.com/ronithrashmikara/Jasper/master/results/figures/effect_sizes.png) |
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/volcano_plot.png" width="600"/>
+<img src="https://raw.githubusercontent.com/ronithrashmikara/Jasper/master/results/figures/volcano_plot.png" width="600"/>
 
 *Volcano plot — effect size vs. significance*
 
@@ -330,7 +330,7 @@ The dataset contains images from public archives and cultural documentation plat
  
 - **Dataset**: https://www.kaggle.com/datasets/ronithrr/jasper-japanese-x-sri-lankan-textile-image-dataset
 - **Paper**: [to be updated]
-- **GitHub**: https://github.com/InfiniteBloom-max/Jasper
+- **GitHub**: https://github.com/ronithrashmikara/Jasper
  
 ---
  
